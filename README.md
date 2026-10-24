@@ -10,6 +10,7 @@ This initiative was conceived and drafted as part of a project funded by the Eur
 
 </div>
 
+---
 
 ## The Vision & features
 
