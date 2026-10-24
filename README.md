@@ -9,7 +9,7 @@ This initiative was conceived and drafted as part of a project funded by the Eur
 👉 **[Click here to view the live website preview](https://raimbow-point.vercel.app)** 👈
 
 </div>
----
+
 
 ## The Vision & features
 
