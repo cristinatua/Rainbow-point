@@ -1,4 +1,3 @@
-<div align="center">
 # Rainbow Point (Prototype) 🏳️‍🌈
 
 **Rainbow Point** is a conceptual prototype and proof of concept for a community-driven web platform designed to provide a safe, inclusive digital space for the LGBTQ+ community.
