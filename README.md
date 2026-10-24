@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Rainbow Point (Prototype) 🏳️‍🌈
 
-# Run and deploy your AI Studio app
+**Rainbow Point** is a conceptual prototype and proof of concept for a community-driven web platform designed to provide a safe, inclusive digital space for the LGBTQ+ community.
 
-This contains everything you need to run your app locally.
+This initiative was conceived and drafted as part of a project funded by the European Union. Although the platform remains an early scratch/prototype developed during the program, it reflects our team's effort to design a centralized directory for essential queer resources and safe spaces.
 
-View your app in AI Studio: https://ai.studio/apps/7c33ab5e-eec1-4d15-aa46-b92805ee5077
+---
 
-## Run Locally
+## The Vision & features
 
-**Prerequisites:**  Node.js
+During the EU project, our team identified the need for an accessible, stigma-free directory. This prototype explores:
 
+* **Support & Helplines:** A centralized directory concept for emergency assistance, mental health support, and crisis helplines.
+* **Events & Gatherings:** Layout for inclusive social, educational, and cultural events.
+* **Safe Spaces:** Listings draft for queer-friendly venues, dining, and healthcare resources.
+* **Community Connection:** A digital hub centered on safety, diversity, and solidarity.
+
+---
+
+## Project Status 
+
+> **Note:** This repository hosts an early exploratory prototype/scratch created using **Google AI Studio** and web technologies. It is an experimental proof of concept rather than a live production app.
+
+### Run Locally
+
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
