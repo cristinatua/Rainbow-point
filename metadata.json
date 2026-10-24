@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Point",
+  "description": "A digital safe haven and community platform for the LGBTQ+ community, providing a directory of vetted safe spaces, emergency resources, and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
